@@ -123,8 +123,8 @@ https://github.com/othneildrew/Best-README-Template -->
 
 <!-- LICENSE -->
 ## License or Author
-  * Uditya Laad
   * Shubhanki Gupta
+  * Uditya Laad
   * Harpreet Jolly
   * Vijiithaa Sasidharan
   * Premchander Satheesh
@@ -136,13 +136,12 @@ https://github.com/othneildrew/Best-README-Template -->
 
 <!-- CONTACT -->
 ## Contact
-  <b>Uditya Laad</b> &nbsp; [@linkedin.com/in/uditya-laad-222680148](https://www.linkedin.com/in/uditya-laad-222680148/)
+  <b>Shubhanki Gupta</b> &nbsp; [@linkedin.com/in/shubhankigupta/](https://www.linkedin.com/in/shubhankigupta/)
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [@github.com/Shubha1835](https://github.com/Shubha1835)
   
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [@github.com/udityalaad](https://github.com/udityalaad)
-  
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; udityalaad123@gmail.com
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; shubhankigupta1835@gmail.com
 
-  <b>Project Link</b> &nbsp; [https://github.com/udityalaad/FoodBell](https://github.com/udityalaad/FoodBell)
+  <b>Project Link</b> &nbsp; [https://github.com/Shubha1835/FoodBell](https://github.com/Shubha1835/FoodBell)
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
